@@ -1,2 +1,6 @@
+from Interfaz1 import *
+
 def main():
-    pass
+    Interfaz1(None)
+
+main()
